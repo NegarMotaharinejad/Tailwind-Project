@@ -1,0 +1,31 @@
+# 💼 Node.js dependencies
+node_modules/
+
+# 🔐 Environment variables (your secrets)
+.env
+
+# 🧹 Logs
+logs
+*.log
+npm-debug.log*
+
+# 🖼️ macOS system files (if you're using macOS)
+.DS_Store
+
+# 📦 Optional: build or dist folders
+dist/
+build/
+
+# 🧪 Jest test coverage
+coverage/
+
+# 🚫 VSCode settings (if you use VSCode)
+.vscode/
+
+# 💾 OS-specific things (Windows)
+Thumbs.db
+ehthumbs.db
+
+# ⚙️ Temporary files
+*.tmp
+*.swp
